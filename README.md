@@ -26,6 +26,8 @@ O projeto foi pensado para ser:
 - Automatizar análises com apoio de IA
 - Demonstrar arquitetura moderna de aplicações Frontend
 
+Este projeto faz parte do meu portfólio profissional.
+
 ---
 
 ## 🛠️ Tecnologias e Linguagens Utilizadas
